@@ -49,7 +49,7 @@
                 <h3 class="panel-title"><span class="glyphicon glyphicon-pencil"></span> <strong>Games</strong></h3>
               </div>
               <div class="panel-body">
-                <a href="/contents/games/"><img src="contents_img/contents.png" alt="contents" class="img-responsive img-bsr"></a>
+                <a href="./contents/games/"><img src="contents_img/contents.png" alt="contents" class="img-responsive img-bsr"></a>
                 <p>当サークルの一番の目標である<strong>同人ゲーム製作</strong>に向けたページです。</p>
                 <p>ゲームジャンルはノベルゲームを一番に考えていますが、幅広く考えています。</p>
                 <p>いずれはここでゲームの公開などを行えたら・・・いいなぁ（遠い目）。</p>

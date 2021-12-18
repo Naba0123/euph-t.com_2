@@ -18,9 +18,9 @@
     <!-- Sliders -->
     <div class="contents mybox-border-shadow contents-slides">
       <div id="slides">
-        <img src="/img/slides/slider01.jpg" alt="" class="slides-img">
-        <img src="/img/slides/slider02.jpg" alt="" class="slides-img">
-        <img src="/img/slides/slider03.jpg" alt="" class="slides-img">
+        <img src="./img/slides/slider01.jpg" alt="" class="slides-img">
+        <img src="./img/slides/slider02.jpg" alt="" class="slides-img">
+        <img src="./img/slides/slider03.jpg" alt="" class="slides-img">
         <a href="#" class="slidesjs-previous slidesjs-navigation"><span class="glyphicon glyphicon-chevron-left"></span></a>
         <a href="#" class="slidesjs-next slidesjs-navigation"><span class="glyphicon glyphicon-chevron-right"></span></a>
       </div>
@@ -61,7 +61,7 @@
             </div>
             <div class="panel-body">
               <?php include "db/whats_new.php"; ?>
-              <a href="/new/" class="btn btn-default btn-sm pull-right" role="button">
+              <a href="./new/" class="btn btn-default btn-sm pull-right" role="button">
                 <span class="glyphicon glyphicon-calendar"></span> More Older
               </a>
             </div>
