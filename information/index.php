@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿<?php $root = '../' ?>
+
+<!DOCTYPE html>
 <html lang="ja">
 <head>
   <!-- HTML head -->

@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿<?php $root = '../' ?>
+
+<!DOCTYPE html>
 <html lang="ja">
 <head>
   <!-- HTML head -->
@@ -23,7 +25,7 @@
 <body>
 
   <!-- navbar -->
-  <?php include "../template/body_navbar.php"; ?>
+  <?php include "./template/body_navbar.php"; ?>
 
   <!-- container -->
   <div class="container">

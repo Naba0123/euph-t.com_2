@@ -2,13 +2,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="shortcut icon" href="<?= $root ?>favicon.ico" type="image/vnd.microsoft.icon">
 
 <!-- Stylesheet -->
-<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="/lib/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet">
-<link href="/css/main.css" rel="stylesheet">
-<link href="/css/slides.css" rel="stylesheet">
+<link href="<?= $root ?>bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="<?= $root ?>lib/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="<?= $root ?>css/main.css" rel="stylesheet">
+<link href="<?= $root ?>css/slides.css" rel="stylesheet">
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -20,10 +20,10 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/bootstrap/js/bootstrap.min.js"></script>
+<script src="<?= $root ?>bootstrap/js/bootstrap.min.js"></script>
 
 <!-- SlidesJS < slidesjs.com > -->
-<script src="/lib/SlidesJS-3/jquery.slides.js"></script>
+<script src="<?= $root ?>lib/SlidesJS-3/jquery.slides.js"></script>
 <script>
   $(function(){
     $("#slides").slidesjs({
@@ -52,8 +52,8 @@
 </script>
 
 <!-- lightbox　-->
-<script src="/lib/lightbox/js/lightbox.min.js"></script>
-<link href="/lib/lightbox/css/lightbox.css" rel="stylesheet">
+<script src="<?= $root ?>lib/lightbox/js/lightbox.min.js"></script>
+<link href="<?= $root ?>lib/lightbox/css/lightbox.css" rel="stylesheet">
 
 <!-- title -->
 <title><?php
